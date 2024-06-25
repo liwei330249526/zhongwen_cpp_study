@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/1_7_1.dir/1_C和Cpp/1_7变量定义位置/1.cpp.o  -o 1_7_1 

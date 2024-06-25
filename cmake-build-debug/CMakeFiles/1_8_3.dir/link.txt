@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/1_8_3.dir/1_C和Cpp/1_8布尔类型/3.cpp.o  -o 1_8_3 

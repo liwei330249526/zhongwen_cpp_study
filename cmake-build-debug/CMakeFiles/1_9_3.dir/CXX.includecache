@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/liwei/books/zhongwenwang/cpp_study/1_9const/3.cpp
+stdio.h
+-
+3.h
+/home/liwei/books/zhongwenwang/cpp_study/1_9const/3.h
+
+/home/liwei/books/zhongwenwang/cpp_study/1_9const/3.h
+
+/home/liwei/books/zhongwenwang/cpp_study/1_9const/3_1.cpp
+stdio.h
+-
+3.h
+/home/liwei/books/zhongwenwang/cpp_study/1_9const/3.h
+
