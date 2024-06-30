@@ -1,1 +1,0 @@
-/usr/bin/cc -g   CMakeFiles/1_9_2_c.dir/1_C和Cpp/1_9const/2.c.o CMakeFiles/1_9_2_c.dir/1_C和Cpp/1_9const/2_1.c.o  -o 1_9_2_c 

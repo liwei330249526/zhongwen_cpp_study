@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/1_10_1.dir/1_C和Cpp/1_10new和delete/1.cpp.o  -o 1_10_1 

@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/1_9_1.dir/1_C和Cpp/1_9const/1.cpp.o  -o 1_9_1 

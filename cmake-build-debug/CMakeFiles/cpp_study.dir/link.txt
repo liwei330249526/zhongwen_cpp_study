@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/cpp_study.dir/1_6输入输出/1.cpp.o  -o cpp_study 

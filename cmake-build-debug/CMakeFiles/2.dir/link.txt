@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/2.dir/1_6输入输出/2.cpp.o  -o 2 

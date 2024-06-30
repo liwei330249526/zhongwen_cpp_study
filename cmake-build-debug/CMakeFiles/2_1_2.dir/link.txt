@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/2_1_2.dir/2_类和对象/2_1类和对象创建/2.cpp.o  -o 2_1_2 
