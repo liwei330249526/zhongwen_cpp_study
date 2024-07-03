@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.17)
+cmake_minimum_required(VERSION 3.16)
 project(cpp_study)
 
 set(CMAKE_CXX_STANDARD 14)
@@ -167,3 +167,76 @@ add_executable(2_19_10
         2_类和对象/2_19_string/10.cpp)
 
 
+
+
+
+######################################
+add_executable(3_1_1
+        3_yinyong_引用/3_1_yinyong_引用入门/1.cpp)
+
+add_executable(3_1_2
+        3_yinyong_引用/3_1_yinyong_引用入门/2.cpp)
+
+add_executable(3_1_3
+        3_yinyong_引用/3_1_yinyong_引用入门/3.cpp)
+
+add_executable(3_1_4
+        3_yinyong_引用/3_1_yinyong_引用入门/4.cpp)
+
+add_executable(3_2_1
+        3_yinyong_引用/3_2_yinyong_引用本质/1.cpp)
+
+add_executable(3_2_2
+        3_yinyong_引用/3_2_yinyong_引用本质/2.cpp)
+
+add_executable(3_3_1
+        3_yinyong_引用/3_3_yinyong_bind_temp_data_绑定临时数据/1.cpp)
+
+add_executable(3_3_2
+        3_yinyong_引用/3_3_yinyong_bind_temp_data_绑定临时数据/2.cpp)
+
+add_executable(3_3_3
+        3_yinyong_引用/3_3_yinyong_bind_temp_data_绑定临时数据/3.cpp)
+
+
+####################################################################
+
+
+add_executable(4_1_1
+        4_inherit_继承与派生/4_1_inherit_继承/1.cpp)
+
+add_executable(4_2_1
+        4_inherit_继承与派生/4_2_three_inherit_三种继承/1.cpp)
+
+add_executable(4_2_2
+        4_inherit_继承与派生/4_2_three_inherit_三种继承/2.cpp)
+
+add_executable(4_3_1
+        4_inherit_继承与派生/4_3_inherit_name_cover_名字遮蔽/1.cpp)
+
+add_executable(4_3_2
+        4_inherit_继承与派生/4_3_inherit_name_cover_名字遮蔽/2.cpp)
+
+add_executable(4_4_1
+        4_inherit_继承与派生/4_4_scope_nesting_作用域嵌套/1.cpp)
+
+add_executable(4_4_2
+        4_inherit_继承与派生/4_4_scope_nesting_作用域嵌套/2.cpp)
+
+add_executable(4_5_1
+        4_inherit_继承与派生/4_5_inherit_mem_继承的内存模型/1.cpp)
+
+add_executable(4_5_2
+        4_inherit_继承与派生/4_5_inherit_mem_继承的内存模型/2.cpp)
+
+add_executable(4_5_3
+        4_inherit_继承与派生/4_5_inherit_mem_继承的内存模型/3.cpp)
+
+add_executable(4_6_1
+        4_inherit_继承与派生/4_6_base_inherit_基类和派生类构造/1.cpp)
+
+add_executable(4_6_2
+        4_inherit_继承与派生/4_6_base_inherit_基类和派生类构造/2.cpp)
+
+add_executable(4_7_1
+        4_inherit_继承与派生/4_7_base_inherit_基类和派生类析构函数/1.cpp)
