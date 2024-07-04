@@ -240,3 +240,37 @@ add_executable(4_6_2
 
 add_executable(4_7_1
         4_inherit_继承与派生/4_7_base_inherit_基类和派生类析构函数/1.cpp)
+
+add_executable(4_8_1
+        4_inherit_继承与派生/4_8_muti_inherit_多继承/1.cpp)
+
+add_executable(4_8_2
+        4_inherit_继承与派生/4_8_muti_inherit_多继承/2.cpp)
+
+add_executable(4_9_1
+        4_inherit_继承与派生/4_9_muti_inerit_多继承内存模型/1.cpp)
+
+add_executable(4_10_1
+        4_inherit_继承与派生/4_10_pointer_vasite_private_value_通过指针访问私有成员/1.cpp)
+
+add_executable(4_11_1
+        4_inherit_继承与派生/4_11_virtrue_inherit_虚继承和虚基类/1.cpp)
+
+add_executable(4_11_2
+        4_inherit_继承与派生/4_11_virtrue_inherit_虚继承和虚基类/2.cpp)
+
+
+add_executable(4_12_1
+        4_inherit_继承与派生/4_12_virtrue_inherti_cons_虚继承时的构造/1.cpp)
+
+add_executable(4_14_1
+        4_inherit_继承与派生/4_14_up_trans_type_向上转型/1.cpp)
+
+add_executable(4_14_2
+        4_inherit_继承与派生/4_14_up_trans_type_向上转型/2.cpp)
+
+add_executable(4_14_3
+        4_inherit_继承与派生/4_14_up_trans_type_向上转型/3.cpp)
+
+add_executable(4_15_1
+        4_inherit_继承与派生/4_15_child_p_to_parent_p_派生类指针赋值给基类指针/1.cpp)
