@@ -274,3 +274,32 @@ add_executable(4_14_3
 
 add_executable(4_15_1
         4_inherit_继承与派生/4_15_child_p_to_parent_p_派生类指针赋值给基类指针/1.cpp)
+
+
+#########################################################
+add_executable(5_1_1
+        5_muti_mod_virture_func_多态与虚函数/5_1_easy_多态与虚函数快速入门/1.cpp)
+
+add_executable(5_1_2
+        5_muti_mod_virture_func_多态与虚函数/5_1_easy_多态与虚函数快速入门/2.cpp)
+
+add_executable(5_1_3
+        5_muti_mod_virture_func_多态与虚函数/5_1_easy_多态与虚函数快速入门/3.cpp)
+
+add_executable(5_1_4
+        5_muti_mod_virture_func_多态与虚函数/5_1_easy_多态与虚函数快速入门/4.cpp)
+
+add_executable(5_2_1
+        5_muti_mod_virture_func_多态与虚函数/5_2_virtrue_func_note_虚函数注意事项/1.cpp)
+
+add_executable(5_3_1
+        5_muti_mod_virture_func_多态与虚函数/5_3_desstructor_func_necessity_虚析构函数必要性/1.cpp)
+
+add_executable(5_3_2
+        5_muti_mod_virture_func_多态与虚函数/5_3_desstructor_func_necessity_虚析构函数必要性/2.cpp)
+
+add_executable(5_4_1
+        5_muti_mod_virture_func_多态与虚函数/5_4_real_virture_func_abstract_class_纯虚函数和抽象类/1.cpp)
+
+add_executable(5_5_1
+        5_muti_mod_virture_func_多态与虚函数/5_5_virture_func_table_biao_虚函数表/1.cpp)
