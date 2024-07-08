@@ -303,3 +303,44 @@ add_executable(5_4_1
 
 add_executable(5_5_1
         5_muti_mod_virture_func_多态与虚函数/5_5_virture_func_table_biao_虚函数表/1.cpp)
+
+
+add_executable(5_6_1
+        5_muti_mod_virture_func_多态与虚函数/5_6_typeid_运算符获取类型信息/1.cpp)
+
+add_executable(5_6_2
+        5_muti_mod_virture_func_多态与虚函数/5_6_typeid_运算符获取类型信息/2.cpp)
+
+add_executable(5_6_3
+        5_muti_mod_virture_func_多态与虚函数/5_6_typeid_运算符获取类型信息/3.cpp)
+
+add_executable(5_7_1
+        5_muti_mod_virture_func_多态与虚函数/5_7_RTTI/1.cpp)
+
+add_executable(5_7_2
+        5_muti_mod_virture_func_多态与虚函数/5_7_RTTI/2.cpp)
+
+
+#######################################################################
+add_executable(6_1_1
+        6_operator_overloading_运算符重载/6_1_op_overload_base_运算符重载基础/1.cpp)
+add_executable(6_1_2
+        6_operator_overloading_运算符重载/6_1_op_overload_base_运算符重载基础/2.cpp)
+
+add_executable(6_3_1
+        6_operator_overloading_运算符重载/6_3_over_math_op_重载数学运算符/1.cpp)
+
+add_executable(6_4_1
+        6_operator_overloading_运算符重载/6_4_over_op_by_mem_or_global_以成员函数或全局函数重载运算符/1.cpp)
+
+add_executable(6_5_1
+        6_operator_overloading_运算符重载/6_5_over_right_left_op_重载双右左箭头/1.cpp)
+
+add_executable(6_6_1
+        6_operator_overloading_运算符重载/6_6_over_mid_kuohao_重载下标运算符/1.cpp)
+
+add_executable(6_7_1
+        6_operator_overloading_运算符重载/6_7_over_jiajia_jianjian/1.cpp)
+
+add_executable(6_8_1
+        6_operator_overloading_运算符重载/6_8_over_kuohao_重载括号/1.cpp)
